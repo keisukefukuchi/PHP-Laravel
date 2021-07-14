@@ -2,4 +2,4 @@
 
 PHP/Laravelのアプトプット
 
-TodoList : Todoリスト
+Todos : Todoリスト
